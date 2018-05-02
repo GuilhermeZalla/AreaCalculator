@@ -28,7 +28,6 @@ package project.areacalculator;
      private final JMenuItem menuItemNew, menuItemAbout, menuItemExit, menuItemCircle,
                              menuItemTriangle, menuItemRetangle, menuItemSquare,
                              menuItemTrapeze;
-      
      Container container;
      
      public AreaCalculator(){
